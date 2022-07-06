@@ -7,7 +7,9 @@ body {
   background: black;
   color: black;
   padding: 25px;
-  font-family: sans-serif;
+  font-family: adobe-caslon-pro, serif;
+  font-weight: 400;
+  font-style: normal;
   background-size: 40px 40px;
   background-image:
     linear-gradient(to right, #FE3434 1px, transparent 1px),
