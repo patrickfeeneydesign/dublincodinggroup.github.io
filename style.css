@@ -19,6 +19,7 @@ h1 {
   margin: 10px;
   color: #F2F5EA;
   font-size: 60px;
+  font-family: adobe-caslon-pro, serif;
   text-align: center;
   width: 500px;
   border-radius: 10px;
@@ -44,6 +45,7 @@ img.image {
   margin-bottom: -6px;
 }
 .text {
+  font-family: adobe-caslon-pro, serif;
   width: 485px;
   height: relative;
   text-align: center;
